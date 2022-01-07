@@ -1,6 +1,6 @@
 # 얼굴 인식
 
-___OpenCV4.5.4 / android studio 2020.3.1___ 사용했습니다.
+___OpenCV4.5.4 / android studio 2020.3.1___ 사용했습니다. 
 
 github에는 100MB 이상의 파일이 올라가지 않아서 일단 통압축 파일은 n드라이브 공유로 올리겠습니다.
 
@@ -15,3 +15,6 @@ github에는 100MB 이상의 파일이 올라가지 않아서 일단 통압축 �
           
 <https://webnautes.tistory.com/1054>, Android NDK + CMake + OpenCV 카메라 예제 → <https://webnautes.tistory.com/1087?category=704164> 얼굴 검출 진행
 
+* second 파일의 CMakeLists_8 경로변경
+
+` set(pathPROJECT C:/Users/AndroidStudioProjects/second) # 저장한 경로로 수정필요 `
