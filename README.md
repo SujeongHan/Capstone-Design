@@ -12,6 +12,6 @@ github에는 100MB 이상의 파일이 올라가지 않아서 일단 통압축 �
         
          → 해당 링크의 2.6 자바 코드 수정합니다. 부터 이어 진행해야 합니다ㅜㅜ 
           마무리 지어 올리려 했지만 일요일까지 일이 생겨서 진행하지 못했습니다ㅠㅠ 월요일에 파일 다시 올리겠습니다ㅠㅠㅠㅠ 
-
-<https://webnautes.tistory.com/1054>, Android NDK + CMake + OpenCV 카메라 예제 참고 → second 얼굴 검출로 진행
+          
+<https://webnautes.tistory.com/1054>, Android NDK + CMake + OpenCV 카메라 예제 → <https://webnautes.tistory.com/1087?category=704164> 얼굴 검출 진행
 
