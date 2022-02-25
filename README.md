@@ -14,3 +14,7 @@ github에는 100MB 이상의 파일이 올라가지 않아서 일단 통압축 �
 * second 파일의 CMakeLists_8 경로변경
 
 ` set(pathPROJECT C:/Users/AndroidStudioProjects/second) # 저장한 경로로 수정필요 `
+
+
+
+* 0225 파일의 OpenCV 라이브러리 오류
